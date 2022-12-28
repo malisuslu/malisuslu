@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Django Rest Framework**
 
-- 🤝 I’m looking for help with **Solidity**
+- 🤝 I’m looking for help with **Blockchain Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/malisuslu](https://github.com/malisuslu)
 
