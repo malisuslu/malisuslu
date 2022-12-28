@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Blockchain Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/malisuslu](https://github.com/malisuslu)
+- 👨‍💻 Some of my projects are available at [https://github.com/malisuslu](https://github.com/malisuslu)
 
 - 💬 Ask me about **CSS, Javascript & React**
 
